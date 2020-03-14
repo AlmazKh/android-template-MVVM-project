@@ -6,6 +6,4 @@ import javax.inject.Inject
 class LoginInteractor
 @Inject constructor(
         private val userRepository: UserRepository
-) {
-
-}
+)

@@ -3,8 +3,8 @@ package com.almaz.android_template_mvvm_project.data.holder
 import javax.inject.Inject
 
 /**
-* Just example
-*/
+ * Just example
+ */
 class CategoriesHolder @Inject constructor() {
 
     /*private val categories: MutableList<Category> = mutableListOf()

@@ -39,7 +39,7 @@ class MainActivity : BaseActivity() {
                     // TODO add items into menu
                     /** /Just example
                     R.id.navigation_map -> {
-                        navigateTo(MapFragment.toString(), null)
+                    navigateTo(MapFragment.toString(), null)
                     }*/
                     else -> {
                         return@OnNavigationItemSelectedListener false

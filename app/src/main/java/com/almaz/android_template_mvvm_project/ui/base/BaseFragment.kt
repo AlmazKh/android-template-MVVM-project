@@ -38,7 +38,7 @@ open class BaseFragment : Fragment() {
         rootActivity.navigation.visibility = bottomNavVisibility
     }
 
-    fun showSnackbar(message: String){
+    fun showSnackbar(message: String) {
         view?.let { it1 ->
             Snackbar.make(
                     it1,
